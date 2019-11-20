@@ -1,0 +1,20 @@
+{
+  "name": "test_google",
+  "version": "1.0.0",
+  "description": "googleの検索結果を読み込む",
+  "main": "index.js",
+  "scripts": {
+    "runTask": "node scripts/searchInfo.js && node scripts/siteInfo.js && node scripts/analysis.js",
+    "analysis": "node scripts/analysis.js",
+    "siteInfo": "node scripts/siteInfo.js",
+    "searchInfo": "node scripts/searchInfo.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio-httpcli": "^0.7.4",
+    "command-line-args": "^5.1.1",
+    "https": "^1.0.0",
+    "mecab-lite": "0.0.8"
+  }
+}

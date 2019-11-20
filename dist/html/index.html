@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>検索順位</title>
+  <style>
+    .nav {
+      display: flex;
+    }
+    .nav > a {
+      display: block;
+      padding: 5px 10px;
+    }
+    .site-list {
+      list-style: none;
+    }
+    .site-list > li {
+      display: flex;
+      padding: 5px 0;
+      border-bottom: 1px dotted #aaa;
+    }
+    .site-list > li > span:first-child {
+      flex-basis: 130px;
+    }
+    .site-list > li > span:nth-child(2) {
+      flex-basis: calc(100% - 130px);
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <nav class="nav">
+      <a href="index.html">検索順位</a>
+      <a href="word-title.html">タイトル分析</a>
+      <a href="word-h1.html">h1分析</a>
+      <a href="word-keywords.html">キーワード分析</a>
+      <a href="word-description.html">概要分析</a>
+      <a href="word-body.html">本文分析</a>
+    </nav>
+    <h1>検索順位</h1>
+    <section v-if="errored">
+      <p>申し訳ありませんが、情報を取得できませんでした。しばらくしてからもう一度お試しください。</p>
+    </section>
+    <section v-else>
+      <div v-if="loading">Loading...</div>
+      <div v-else v-for="(site, index) in siteInfo">
+        <h2>{{ index + 1 }}位：<a :href="site.url" target="_blank">{{ site.title }}</a></h2>
+        <ul class="site-list">
+          <li><span>title</span><span>{{ site.html.title || '-----' }}</span></li>
+          <li><span>h1</span><span>{{ site.html.h1 || '-----'  }}</span></li>
+          <li><span>description</span><span>{{ site.html.description || '-----'  }}</span></li>
+          <li><span>keywords</span><span>{{ site.html.keywords || '-----'  }}</span></li>
+        </ul>
+      </div>
+    </section>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.0"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.0/axios.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>

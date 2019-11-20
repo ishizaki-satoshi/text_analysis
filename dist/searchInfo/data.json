@@ -1,0 +1,415 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - 検索 文言",
+    "totalResults": "6090000",
+    "searchTerms": "検索 文言",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": ""
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - 検索 文言",
+    "totalResults": "6090000",
+    "searchTerms": "検索 文言",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": ""
+   }
+  ]
+ },
+ "context": {
+  "title": "練習"
+ },
+ "searchInformation": {
+  "searchTime": 0.254026,
+  "formattedSearchTime": "0.25",
+  "totalResults": "6090000",
+  "formattedTotalResults": "6,090,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "SEO対策で検索結果画面に表示される内容は変えられる？ - あきばれ ...",
+   "htmlTitle": "SEO対策で\u003cb\u003e検索\u003c/b\u003e結果画面に表示される内容は変えられる？ - あきばれ ...",
+   "link": "https://www.akibare-hp.jp/kouza/serp/",
+   "displayLink": "www.akibare-hp.jp",
+   "snippet": "検索結果画面に表示される内容は、SEO対策としてご自身で設定したものですので、\nその設定を変えれば、基本的に検索結果画面の表示内容も ... 変更するのはいつでも\n構いませんが、実際に検索結果画面の文言が変わるには、ある程度時間がかかります\n。",
+   "htmlSnippet": "\u003cb\u003e検索\u003c/b\u003e結果画面に表示される内容は、SEO対策としてご自身で設定したものですので、\u003cbr\u003e\nその設定を変えれば、基本的に\u003cb\u003e検索\u003c/b\u003e結果画面の表示内容も ... 変更するのはいつでも\u003cbr\u003e\n構いませんが、実際に\u003cb\u003e検索\u003c/b\u003e結果画面の\u003cb\u003e文言\u003c/b\u003eが変わるには、ある程度時間がかかります\u003cbr\u003e\n。",
+   "cacheId": "8bQiqgH8G-AJ",
+   "formattedUrl": "https://www.akibare-hp.jp/kouza/serp/",
+   "htmlFormattedUrl": "https://www.akibare-hp.jp/kouza/serp/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "367",
+      "height": "137",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqYx1OF1liCHzWBVNtGuf2SDFEsCJEt8Mo5xxYZXRsyCH0wKCTIdK0cd8"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "吉本 俊宏",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2, minimum-scale=1, user-scalable=yes",
+      "format-detection": "telephone=no",
+      "og:title": "SEO対策で検索結果画面に表示される内容は変えられる？",
+      "og:type": "article",
+      "og:url": "https://www.akibare-hp.jp/kouza/serp/",
+      "og:description": "今回のご相談 Googleなどで検索したときに出てくる見出しや説明文を変えたいのですが、これはSEO対策をすると変えられるのですか？ ご回答 検索結果画面に表示される内容は、SEO対策としてご自身で設定したものですので、その設定を変えれば、",
+      "og:site_name": "あきばれホームページ作成",
+      "og:image": "https://www.akibare-hp.jp/img/kouza/post/serp1.png",
+      "twitter:title": "SEO対策で検索結果画面に表示される内容は変えられる？",
+      "twitter:url": "https://www.akibare-hp.jp/kouza/serp/",
+      "twitter:description": "今回のご相談 Googleなどで検索したときに出てくる見出しや説明文を変えたいのですが、これはSEO対策をすると変えられるのですか？ ご回答 検索結果画面に表示される内容は、SEO対策としてご自身で設定したものですので、その設定を変えれば、",
+      "twitter:card": "summary",
+      "twitter:image": "https://www.akibare-hp.jp/img/kouza/post/serp1.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.akibare-hp.jp/img/kouza/post/serp1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "検索結果に効果的に表示されるタイトルとスニペットを作成する - Search ...",
+   "htmlTitle": "\u003cb\u003e検索\u003c/b\u003e結果に効果的に表示されるタイトルとスニペットを作成する - Search ...",
+   "link": "https://support.google.com/webmasters/answer/35624?hl=ja",
+   "displayLink": "support.google.com",
+   "snippet": "ページのタイトルと説明（スニペット）は、ページのコンテンツとウェブ上の参照元ページの\n両方を踏まえて、自動的に作成されます。スニペットとタイトルは、各検索結果を最大限\nにわかりやすく伝え、ユーザーが入力したクエリとの関連性を示すことを目標としてい ...",
+   "htmlSnippet": "ページのタイトルと説明（スニペット）は、ページのコンテンツとウェブ上の参照元ページの\u003cbr\u003e\n両方を踏まえて、自動的に作成されます。スニペットとタイトルは、各\u003cb\u003e検索\u003c/b\u003e結果を最大限\u003cbr\u003e\nにわかりやすく伝え、ユーザーが入力したクエリとの関連性を示すことを目標としてい&nbsp;...",
+   "cacheId": "4j9sDZzfnFEJ",
+   "formattedUrl": "https://support.google.com/webmasters/answer/35624?hl=ja",
+   "htmlFormattedUrl": "https://support.google.com/webmasters/answer/35624?hl=ja",
+   "pagemap": {
+    "metatags": [
+     {
+      "format-detection": "email=no",
+      "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google 検索の仕組み | クロールとインデックス登録",
+   "htmlTitle": "Google \u003cb\u003e検索\u003c/b\u003eの仕組み | クロールとインデックス登録",
+   "link": "https://www.google.com/intl/ja/search/howsearchworks/crawling-indexing/",
+   "displayLink": "www.google.com",
+   "snippet": "インターネット上の膨大な数のウェブページに掲載されている情報を収集して体系化する\nために Google が使っているソフトウェアをご紹介します。",
+   "htmlSnippet": "インターネット上の膨大な数のウェブページに掲載されている情報を収集して体系化する\u003cbr\u003e\nために Google が使っているソフトウェアをご紹介します。",
+   "cacheId": "1M6P3nAlntAJ",
+   "formattedUrl": "https://www.google.com/intl/ja/search/.../crawling-indexing/",
+   "htmlFormattedUrl": "https://www.google.com/intl/ja/search/.../crawling-indexing/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM8E5JJHACqtrpwjIYCAfwq_Nlp7gxk0RpbfeNHc8eL-FJDliDIz649w"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Google 検索の仕組み | クロールとインデックス登録",
+      "twitter:title": "Google 検索の仕組み | クロールとインデックス登録",
+      "og:description": "インターネット上の膨大な数のウェブページに掲載されている情報を収集して体系化するために Google が使っているソフトウェアをご紹介します。",
+      "twitter:description": "インターネット上の膨大な数のウェブページに掲載されている情報を収集して体系化するために Google が使っているソフトウェアをご紹介します。",
+      "referrer": "no-referrer",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/BNHR6IQJGZs/hqdefault.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Gmail で使用できる検索演算子 - Gmail ヘルプ",
+   "htmlTitle": "Gmail で使用できる\u003cb\u003e検索\u003c/b\u003e演算子 - Gmail ヘルプ",
+   "link": "https://support.google.com/mail/answer/7190?hl=ja",
+   "displayLink": "support.google.com",
+   "snippet": "Gmail で使用できる検索演算子. 検索演算子と呼ばれる単語や記号を使用して、Gmail \nの検索結果を絞り込むことができます。また、複数の演算子を組み合わせて検索結果を\nさらに絞り込むこともできます。",
+   "htmlSnippet": "Gmail で使用できる\u003cb\u003e検索\u003c/b\u003e演算子. \u003cb\u003e検索\u003c/b\u003e演算子と呼ばれる単語や記号を使用して、Gmail \u003cbr\u003e\nの\u003cb\u003e検索\u003c/b\u003e結果を絞り込むことができます。また、複数の演算子を組み合わせて\u003cb\u003e検索\u003c/b\u003e結果を\u003cbr\u003e\nさらに絞り込むこともできます。",
+   "cacheId": "CEaUfCbCzGMJ",
+   "formattedUrl": "https://support.google.com/mail/answer/7190?hl=ja",
+   "htmlFormattedUrl": "https://support.google.com/mail/answer/7190?hl=ja",
+   "pagemap": {
+    "metatags": [
+     {
+      "format-detection": "email=no",
+      "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ヘルプセンターの検索結果の分析（Guide Professional and Enterprise ...",
+   "htmlTitle": "ヘルプセンターの\u003cb\u003e検索\u003c/b\u003e結果の分析（Guide Professional and Enterprise ...",
+   "link": "https://support.zendesk.com/hc/ja/articles/203664476-%E3%83%98%E3%83%AB%E3%83%97%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%E3%81%AE%E5%88%86%E6%9E%90-Guide-Professional-and-Enterprise-",
+   "displayLink": "support.zendesk.com",
+   "snippet": "2018年7月31日 ... Guide Professionalには、ヘルプセンター内で検索された語句を確認できる検索\nアナリティクスダッシュボードがあります。ここには、検索された各語句について、検索\n回数、返された検索結果の件数と種類（検索がヒットした場合）、クリック ...",
+   "htmlSnippet": "2018年7月31日 \u003cb\u003e...\u003c/b\u003e Guide Professionalには、ヘルプセンター内で\u003cb\u003e検索\u003c/b\u003eされた語句を確認できる\u003cb\u003e検索\u003c/b\u003e\u003cbr\u003e\nアナリティクスダッシュボードがあります。ここには、\u003cb\u003e検索\u003c/b\u003eされた各語句について、\u003cb\u003e検索\u003c/b\u003e\u003cbr\u003e\n回数、返された\u003cb\u003e検索\u003c/b\u003e結果の件数と種類（\u003cb\u003e検索\u003c/b\u003eがヒットした場合）、クリック&nbsp;...",
+   "cacheId": "04uLdlfCOTEJ",
+   "formattedUrl": "https://support.zendesk.com/.../203664476- ヘルプセンターの検索結果の分析-Guide-Professional-and-Enter...",
+   "htmlFormattedUrl": "https://support.zendesk.com/.../203664476- ヘルプセンターの\u003cb\u003e検索\u003c/b\u003e結果の分析-Guide-Professional-and-Enter...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "334",
+      "height": "151",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaICD2S7fvsLrtOav3uhVKJSHbYzAIEa_ziS2wugtR8vA1b_r9qMbwF4"
+     }
+    ],
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "og:image": "https://theme.zdassets.com/theme_assets/1/3cc7e6328cd4f823ed1332d774490412f0531606.svg",
+      "og:type": "website",
+      "og:site_name": "Zendeskヘルプ",
+      "og:title": "ヘルプセンターの検索結果の分析（Guide Professional and Enterprise）",
+      "og:description": "version=\"1.0\" encoding=\"UTF-8\"?\n\nGuide Professionalには、ヘルプセンター内で検索された語句を確認できる検索アナリティクスダッシュボードがあります。ここには、検索された各語句について、検索回数、返された検索結果の件数と種類（検索がヒットした場合）、クリックスルー、および次のアクションが表示されます。\nメモ...",
+      "og:url": "http://support.zendesk.com/hc/ja/articles/203664476-%E3%83%98%E3%83%AB%E3%83%97%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%E3%81%AE%E5%88%86%E6%9E%90-Guide-Pro...",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://zen-marketing-documentation.s3.amazonaws.com/docs/en/search_analytics_activity_by_day.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SharePoint 2013 検索結果が 0 件の場合の表示をカスタマイズする ...",
+   "htmlTitle": "SharePoint 2013 \u003cb\u003e検索\u003c/b\u003e結果が 0 件の場合の表示をカスタマイズする ...",
+   "link": "https://blogs.technet.microsoft.com/sharepoint_support/2015/06/24/sharepoint-2013-0/",
+   "displayLink": "blogs.technet.microsoft.com",
+   "snippet": "2015年6月24日 ... こんにちは、SharePoint サポートの佐伯です。 今回の投稿では、検索結果 Web パーツ\nで検索結果が 0 件の場合の表示をカスタマイズする方法をご紹介します。 検索結果 \nWeb パーツでは、一致する検索結果が得られない場合に既定で以下 ...",
+   "htmlSnippet": "2015年6月24日 \u003cb\u003e...\u003c/b\u003e こんにちは、SharePoint サポートの佐伯です。 今回の投稿では、\u003cb\u003e検索\u003c/b\u003e結果 Web パーツ\u003cbr\u003e\nで\u003cb\u003e検索\u003c/b\u003e結果が 0 件の場合の表示をカスタマイズする方法をご紹介します。 \u003cb\u003e検索\u003c/b\u003e結果 \u003cbr\u003e\nWeb パーツでは、一致する\u003cb\u003e検索\u003c/b\u003e結果が得られない場合に既定で以下&nbsp;...",
+   "cacheId": "lUChXfn3g_4J",
+   "formattedUrl": "https://blogs.technet.microsoft.com/.../2015/.../sharepoint-2013-0/",
+   "htmlFormattedUrl": "https://blogs.technet.microsoft.com/.../2015/.../sharepoint-2013-0/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "og:type": "article",
+      "og:title": "SharePoint 2013 検索結果が 0 件の場合の表示をカスタマイズする",
+      "og:url": "https://blogs.technet.microsoft.com/sharepoint_support/2015/06/24/sharepoint-2013-0/",
+      "og:site_name": "Japan SharePoint Support Team Blog",
+      "og:description": "こんにちは、SharePoint サポートの佐伯です。 今回の投稿では、検索結果 Web パーツで検索結果が 0 件の場合の表示をカスタマイズする方法をご紹介します。 検索結果 Web パーツでは、一致する検索結果が得られない場合に既定で以下のようなメッセージが表示されます。 この表示はコントロール表示テンプレートに定義されています。 参考) 本投稿を読み進める前に、下記の記事で表示テンプレートの概要を説明しておりますので、ご参照いただけますと幸いです。 SharePoint 2013 検索結果の表示を制御する表示テンプレート 検索結果 Web パーツに既定で設定されているコントロール表示テンプレートは Control_SearchResults です。Control_SearchResults 内の下記のコードにより、検索結果が 0 件の場合の表示が定義されています。これを編集することで、表示するメッセ ",
+      "og:image": "https://msdnshared.blob.core.windows.net/media/TNBlogsFS/prod.evol.blogs.technet.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/00/75/40/8306.image01.png",
+      "twitter:card": "summary",
+      "twitter:title": "SharePoint 2013 検索結果が 0 件の場合の表示をカスタマイズする",
+      "twitter:url": "https://blogs.technet.microsoft.com/sharepoint_support/2015/06/24/sharepoint-2013-0/",
+      "twitter:description": "こんにちは、SharePoint サポートの佐伯です。 今回の投稿では、検索結果 Web パーツで検索結果が 0 件の場合の表示をカスタマイズする方法をご紹介します。 検索結果 Web パーツでは、一致する検索結果が得られない場合に既定で以下のようなメッセージが表示されます。 この表示はコントロール表示テンプレートに定義されています。 参考) 本投稿を読み進める前に、下記の記事で表示テンプレートの概要を説明しておりますので、ご参照いただけますと幸いです。 SharePoint 2013 検索結果の表示を制御する表示テンプレート 検索結果 Web パーツに既定で設定されているコントロール表示テンプレートは Control_SearchResults です。Control_SearchResults 内の下記のコードにより、検索結果が 0 件の場合の表示が定義されています。これを編集することで、表示するメッセ ",
+      "twitter:image": "https://msdnshared.blob.core.windows.net/media/TNBlogsFS/prod.evol.blogs.technet.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/00/75/40/8306.image01.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://msdnshared.blob.core.windows.net/media/TNBlogsFS/prod.evol.blogs.technet.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/00/75/40/8306.image01.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google検索結果のスニペット（説明文）の仕様変更、DMOZ廃止｜SEOラボ",
+   "htmlTitle": "Google\u003cb\u003e検索\u003c/b\u003e結果のスニペット（説明文）の仕様変更、DMOZ廃止｜SEOラボ",
+   "link": "https://seolaboratory.jp/75239/",
+   "displayLink": "seolaboratory.jp",
+   "snippet": "2018年3月16日 ... Google検索結果のスニペット（説明文）に引用される取得元のDMOZが廃止され、仕様\n変更したことをGoogleが発表しました。 ※参考：Google ウェブマスター向け公式ブログ\n「ユーザーに役立つ検索スニペット」. Google検索結果のスニペット（ ...",
+   "htmlSnippet": "2018年3月16日 \u003cb\u003e...\u003c/b\u003e Google\u003cb\u003e検索\u003c/b\u003e結果のスニペット（説明文）に引用される取得元のDMOZが廃止され、仕様\u003cbr\u003e\n変更したことをGoogleが発表しました。 ※参考：Google ウェブマスター向け公式ブログ\u003cbr\u003e\n「ユーザーに役立つ\u003cb\u003e検索\u003c/b\u003eスニペット」. Google\u003cb\u003e検索\u003c/b\u003e結果のスニペット（&nbsp;...",
+   "cacheId": "yAZmqEMkGfoJ",
+   "formattedUrl": "https://seolaboratory.jp/75239/",
+   "htmlFormattedUrl": "https://seolaboratory.jp/75239/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "355",
+      "height": "142",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9pyg-WPzdbes1J_hbji_xXufckvxI0mKpjseLp9xcc0jBa1D-nQbk3qxB"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+      "format-detection": "telephone=no",
+      "og:title": "Google検索結果のスニペット（説明文）の仕様変更、DMOZ廃止",
+      "og:type": "article",
+      "og:description": "Google検索結果のスニペット（説明文）に引用される取得元のDMOZが廃止され、仕様変更したことをGoogleが発表しました。\r\n※参考：...",
+      "og:url": "https://seolaboratory.jp/75239/",
+      "og:image": "https://seolaboratory.jp/wordpress/wp-content/uploads/2017/06/google_snippets.png",
+      "og:site_name": "株式会社ディーボ - SEOラボ",
+      "og:locale": "ja_JP",
+      "fb:app_id": "1493230860910249",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@seolabo85",
+      "twitter:image:width": "750",
+      "twitter:image:height": "300"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "SEOラボ トップ",
+      "name": "SEOラボ トップ",
+      "position": "1"
+     },
+     {
+      "item": "SEO",
+      "name": "SEO",
+      "position": "2"
+     },
+     {
+      "item": "SEO情報",
+      "name": "SEO情報",
+      "position": "3"
+     },
+     {
+      "name": "Google検索結果のスニペット（説明文）の仕様変更、DMOZ廃止",
+      "position": "4"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://seolaboratory.jp/wordpress/wp-content/uploads/2017/06/google_snippets.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo!検索ヘルプ - 検索結果に表示されるタイトルや説明文を変更したい",
+   "htmlTitle": "Yahoo!\u003cb\u003e検索\u003c/b\u003eヘルプ - \u003cb\u003e検索\u003c/b\u003e結果に表示されるタイトルや説明文を変更したい",
+   "link": "https://www.yahoo-help.jp/app/answers/detail/a_id/42713/~/%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%82%84%E8%AA%AC%E6%98%8E%E6%96%87%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%97%E3%81%9F%E3%81%84",
+   "displayLink": "www.yahoo-help.jp",
+   "snippet": "ウェブ検索に表示されている検索結果（「キャッシュ」も含みます）は、 検索エンジン用\nロボットが機械的にインターネット上の情報を収集し、検索したワードに関連したページが\n表示されます。 一般的に以下などの情報で検索結果は表示されます。この情報を変更\n ...",
+   "htmlSnippet": "ウェブ\u003cb\u003e検索\u003c/b\u003eに表示されている\u003cb\u003e検索\u003c/b\u003e結果（「キャッシュ」も含みます）は、 \u003cb\u003e検索\u003c/b\u003eエンジン用\u003cbr\u003e\nロボットが機械的にインターネット上の情報を収集し、\u003cb\u003e検索\u003c/b\u003eしたワードに関連したページが\u003cbr\u003e\n表示されます。 一般的に以下などの情報で\u003cb\u003e検索\u003c/b\u003e結果は表示されます。この情報を変更\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "3X6uKlTh-TkJ",
+   "formattedUrl": "https://www.yahoo-help.jp/.../ 検索結果に表示されるタイトルや説明文を変更したい",
+   "htmlFormattedUrl": "https://www.yahoo-help.jp/.../ \u003cb\u003e検索\u003c/b\u003e結果に表示されるタイトルや説明文を変更したい",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "文字検索機能はありますか（Adobe Acrobat Reader DC）",
+   "htmlTitle": "文字\u003cb\u003e検索\u003c/b\u003e機能はありますか（Adobe Acrobat Reader DC）",
+   "link": "https://helpx.adobe.com/jp/acrobat/kb/3313.html",
+   "displayLink": "helpx.adobe.com",
+   "snippet": "2017年6月20日 ... Acrobat Reader の文字検索機能では、さまざまな方法で PDF ファイル内の検索を\n行うことができます。簡易検索では、開いている PDF ファイルから探したい文字列を\nすばやく検索することができます。[PDF を検索] パネルを使用すれば、開い ...",
+   "htmlSnippet": "2017年6月20日 \u003cb\u003e...\u003c/b\u003e Acrobat Reader の文字\u003cb\u003e検索\u003c/b\u003e機能では、さまざまな方法で PDF ファイル内の\u003cb\u003e検索\u003c/b\u003eを\u003cbr\u003e\n行うことができます。簡易\u003cb\u003e検索\u003c/b\u003eでは、開いている PDF ファイルから探したい文字列を\u003cbr\u003e\nすばやく\u003cb\u003e検索\u003c/b\u003eすることができます。[PDF を\u003cb\u003e検索\u003c/b\u003e] パネルを使用すれば、開い&nbsp;...",
+   "cacheId": "9GOfj_8zgRAJ",
+   "formattedUrl": "https://helpx.adobe.com/jp/acrobat/kb/3313.html",
+   "htmlFormattedUrl": "https://helpx.adobe.com/jp/acrobat/kb/3313.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "184",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGXeKGldvceBscqUpgNia6k2Idz7fqZBgfY3bV3zAk_4wBsFwAITwX6ec"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "title": "文字検索機能はありますか（Adobe Acrobat Reader DC）",
+      "content-locale": "ja_JP",
+      "content-language": "ja",
+      "publishdate": "2017-06-21T06:59:51.838Z",
+      "publishexternalurl": "https://helpx.adobe.com/jp/acrobat/kb/3313.html",
+      "sling:resourcetype": "help/components/pages/article-3",
+      "articlegroup": "acrobat/kb/3313.html",
+      "primaryproduct": "acrobat",
+      "productjcrid": "products:SG_ACROBAT_PK",
+      "primaryproductname": "Adobe Acrobat",
+      "product": "adobereader",
+      "productnames": "Reader",
+      "content-type": "troubleshooting",
+      "creationdate": "2017-07-18T09:40:01.746Z",
+      "lastmodifieddate": "2017-06-21T06:59:51.964Z",
+      "lastmodifiedby": "tci58340",
+      "createdby": "admin",
+      "lastreplicatedby": "tci58340@adobe.com",
+      "pagecreatedat": "/content/help/jp",
+      "translated": "false",
+      "serp-content-type": "help"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://helpx.adobe.com/jp/acrobat/kb/3313/_jcr_content/main-pars/image_7dc9.img.png/img001.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ウェブページやファイル内の単語をすばやく検索したい | 1からはじめよう ...",
+   "htmlTitle": "ウェブページやファイル内の単語をすばやく\u003cb\u003e検索\u003c/b\u003eしたい | 1からはじめよう ...",
+   "link": "https://www.sony.jp/support/vaio/beginner/school/shortcut/07.html",
+   "displayLink": "www.sony.jp",
+   "snippet": "インターネットが普及したことにより、さまざまな情報をインターネットで検索して探すこと\nができるようになりました。 しかし、検索して辿り着いたページの情報が多すぎて、自分\nが見つけたい単語やフレーズ、文章を見つけることができない、と困った経験をした方も\n ...",
+   "htmlSnippet": "インターネットが普及したことにより、さまざまな情報をインターネットで\u003cb\u003e検索\u003c/b\u003eして探すこと\u003cbr\u003e\nができるようになりました。 しかし、\u003cb\u003e検索\u003c/b\u003eして辿り着いたページの情報が多すぎて、自分\u003cbr\u003e\nが見つけたい単語やフレーズ、文章を見つけることができない、と困った経験をした方も\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "i3Sl1mGMaJkJ",
+   "formattedUrl": "https://www.sony.jp/support/vaio/beginner/school/.../07.html",
+   "htmlFormattedUrl": "https://www.sony.jp/support/vaio/beginner/school/.../07.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "302",
+      "height": "167",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfRDzBrwggeUMEkgB0xF7LvS2ULKBTjSAgdJ7Rkokjn3lVIEklrwJj5Gk"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "format-detection": "telephone=no",
+      "author": "Sony Marketing(Japan) Inc.",
+      "og:title": "第7回 ウェブページやファイル内の単語をすばやく「検索」するショートカットキー | VAIO | ソニー",
+      "og:type": "article",
+      "og:url": "https://www.sony.jp/support/vaio/beginner/school/shortcut/07.html?fb",
+      "og:image": "/support/vaio/beginner/school/shortcut/images/shortcut07_bnr_fb.jpg",
+      "og:site_name": "ソニー製品情報",
+      "og:description": "ショートカットキーを使って、ウェブページやファイル内の単語をすばやく検索する方法をご説明しています。",
+      "fb:app_id": "213620722045831"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.sony.jp/support/vaio/beginner/school/shortcut/images/07_pct_01.gif"
+     }
+    ]
+   }
+  }
+ ]
+}
