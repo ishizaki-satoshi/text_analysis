@@ -1,10 +1,16 @@
-// スクリプトタグのデータ属性によって出し分け
-var scriptTag = document.getElementById('script');
-var wordType = scriptTag.dataset.wordType;
+// URLのパラメータによって出し分け
+var arg = new Object;
+var pair=location.search.substring(1).split('&');
+for(var i=0;pair[i];i++) {
+    var kv = pair[i].split('=');
+    arg[kv[0]]=kv[1];
+}
+var headingText = document.getElementById('text-type');
+headingText.innerHTML = arg.word;
 
 // 以下下記ページ参照
 // https://qiita.com/january108/items/5388799531c1ace8324e
-var DATA_FILE_PATH = '../analysis/' + wordType + '.json'; // 読み込みデータファイル
+var DATA_FILE_PATH = '../analysis/' + arg.word + '.json'; // 読み込みデータファイル
 var TARGET_ELEMENT_ID = '#cloud'; // 描画先
 
 d3.json(DATA_FILE_PATH).then(function(data) { // v5

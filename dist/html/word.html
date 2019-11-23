@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>文言解析</title>
+  <style>
+    .nav {
+      display: flex;
+    }
+    .nav > a {
+      display: block;
+      padding: 5px 10px;
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav">
+    <a href="index.html">検索順位</a>
+    <a href="word.html?word=title">タイトル分析</a>
+    <a href="word.html?word=h1">h1分析</a>
+    <a href="word.html?word=keywords">キーワード分析</a>
+    <a href="word.html?word=description">概要分析</a>
+    <a href="word.html?word=body">本文分析</a>
+  </nav>
+  <h1>文言解析 - <span id="text-type"></span></h1>
+  <div id="cloud"></div>
+  <script src="https://d3js.org/d3.v5.min.js" charset="utf-8"></script>
+  <script type="text/javascript" src="js/d3.layout.cloud.js"></script>
+  <script id="script" src="js/wordcloud.js" data-word-type="body"></script>
+</body>
+</html>
